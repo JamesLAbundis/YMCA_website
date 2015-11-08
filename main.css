@@ -1,0 +1,61 @@
+body{
+	margin:0;
+}
+
+header{
+	background:#66CC99;
+	color: white;
+	padding: 5px 15px 0px 15px;
+	text-align: center;
+}
+
+header h1{
+	color: #006699;
+	margin:0;
+	display:inline;
+	font-family: 'Benton', Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    line-height: 1em;
+    font-weight: bolder;
+    text-align: center;
+    }
+
+}
+
+nav ul{
+	margin:0;
+	padding: 0px 0px 20px 15px;
+	display:inline;
+}
+nav ul li{
+	background:#006699;
+	border-radius: 10px 10px 10px 10px;
+	color:white;
+	display: inline-block;
+	list-style-type:none;
+	padding: 5px 5px 15px 5px;
+}
+
+nav ul li a{
+	color:white;
+}
+
+#path{
+	background: purple;
+}
+#rang{
+	background: orange;
+}
+#navi{
+	background:blue;
+}
+
+#adv{
+	background:yellow;
+}
+
+#mount{
+	background:#003300;
+}
+
+
