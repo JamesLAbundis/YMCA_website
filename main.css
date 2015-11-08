@@ -31,7 +31,7 @@ nav ul li{
 	background:#006699;
 	border-radius: 10px 10px 10px 10px;
 	color:white;
-	font-size: 15pt;
+	font-size: 20pt;
 	display: inline-block;
 	list-style-type:none;
 	padding: 0px 5px 0px 5px;
@@ -39,6 +39,14 @@ nav ul li{
 
 nav ul li a{
 	color:white;
+}
+
+p{
+	font-size: 18pt;
+	font-style: Arial;
+	text-indent: 50px;
+	margin: 0px 20px 10px 20px;
+
 }
 
 .imageholder{
