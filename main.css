@@ -13,7 +13,7 @@ header h1{
 	color: #006699;
 	margin:0;
 	display:inline;
-	font-family: 'Benton', Helvetica, Arial, sans-serif;
+	font-family: Arial;
     font-size: 3em;
     line-height: 1em;
     font-weight: bolder;
@@ -24,20 +24,27 @@ header h1{
 
 nav ul{
 	margin:0;
-	padding: 0px 0px 20px 15px;
+	padding: 0px 0px 0px 0px;
 	display:inline;
 }
 nav ul li{
 	background:#006699;
 	border-radius: 10px 10px 10px 10px;
 	color:white;
+	font-size: 15pt;
 	display: inline-block;
 	list-style-type:none;
-	padding: 5px 5px 15px 5px;
+	padding: 0px 5px 0px 5px;
 }
 
 nav ul li a{
 	color:white;
+}
+
+.imageholder{
+	position:relative;
+	left: 10px
+	border: 3px solid #73AD21;
 }
 
 #path{
@@ -57,5 +64,18 @@ nav ul li a{
 #mount{
 	background:#003300;
 }
+
+#mav{
+	background:red;
+}
+
+#spec{
+	background:#CC3399;
+}
+#sport{
+	background:black;
+}
+
+
 
 
